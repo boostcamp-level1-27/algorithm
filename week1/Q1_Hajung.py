@@ -42,3 +42,17 @@ def solution(n):
     answer = [e for line in triangle for e in line ]
     
     return answer
+
+
+
+"""
+테스트 1 〉	통과 (0.01ms, 10.3MB)
+테스트 2 〉	통과 (0.01ms, 10.3MB)
+테스트 3 〉	통과 (0.01ms, 10.2MB)
+테스트 4 〉	통과 (1.54ms, 10.8MB)
+테스트 5 〉	통과 (1.45ms, 10.9MB)
+테스트 6 〉	통과 (1.48ms, 11MB)
+테스트 7 〉	통과 (124.38ms, 60MB)
+테스트 8 〉	통과 (120.52ms, 60.2MB)
+테스트 9 〉	통과 (120.17ms, 60.2MB)
+"""
