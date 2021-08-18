@@ -13,7 +13,7 @@ def solution(clothes):
     answer = math.prod(howmany) - 1
     return answer
 
-
+'''
 테스트 1 〉	통과 (0.01ms, 10.2MB)
 테스트 2 〉	통과 (0.01ms, 10.2MB)
 테스트 3 〉	통과 (0.01ms, 10.2MB)
@@ -42,3 +42,4 @@ def solution(clothes):
 테스트 26 〉	통과 (0.01ms, 10.2MB)
 테스트 27 〉	통과 (0.01ms, 10.2MB)
 테스트 28 〉	통과 (0.02ms, 10.2MB)
+'''
